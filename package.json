@@ -1,6 +1,6 @@
 {
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
-  "name": "tar",
+  "name": "rinh-node-tar",
   "description": "tar for node",
   "version": "0.1.17",
   "repository": {
